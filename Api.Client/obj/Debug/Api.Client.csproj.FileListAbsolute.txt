@@ -1,0 +1,14 @@
+C:\GIT\OauthDemo\Api.Client\bin\Debug\Api.Client.exe.config
+C:\GIT\OauthDemo\Api.Client\bin\Debug\Api.Client.exe
+C:\GIT\OauthDemo\Api.Client\bin\Debug\Api.Client.pdb
+C:\GIT\OauthDemo\Api.Client\bin\Debug\IdentityModel.dll
+C:\GIT\OauthDemo\Api.Client\bin\Debug\Newtonsoft.Json.dll
+C:\GIT\OauthDemo\Api.Client\bin\Debug\System.ValueTuple.dll
+C:\GIT\OauthDemo\Api.Client\bin\Debug\IdentityModel.xml
+C:\GIT\OauthDemo\Api.Client\bin\Debug\Newtonsoft.Json.xml
+C:\GIT\OauthDemo\Api.Client\obj\Debug\Api.Client.csprojResolveAssemblyReference.cache
+C:\GIT\OauthDemo\Api.Client\obj\Debug\Api.Client.exe
+C:\GIT\OauthDemo\Api.Client\obj\Debug\Api.Client.pdb
+C:\GIT\POC\IdentityServerPOC\Api.Client\bin\Debug\Api.Client.exe.config
+C:\GIT\POC\IdentityServerPOC\Api.Client\obj\Debug\Api.Client.exe
+C:\GIT\POC\IdentityServerPOC\Api.Client\obj\Debug\Api.Client.pdb
